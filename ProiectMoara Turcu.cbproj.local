@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\Personal\Desktop\proiect oop decembrie\Moara.dfm=C:\Users\Personal\Desktop\Moara.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,C:\Users\Personal\Desktop\ProiectMoara Turcu.cbproj=C:\Users\Personal\Desktop\ProiectMoara Turcu.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,C:\Users\Personal\Desktop\proiect oop decembrie\ProjectMoaraPCH1.h=C:\Users\Personal\Desktop\ProiectMoara TurcuPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,C:\Users\Personal\Documents\Project1.cbproj=C:\Users\Personal\Desktop\proiect oop decembrie\ProjectMoara.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,C:\Users\Personal\Documents\Unit1.h=C:\Users\Personal\Desktop\proiect oop decembrie\clase\tablaJoc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Personal\Documents\Unit1.dfm=C:\Users\Personal\Desktop\proiect oop decembrie\Moara.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Users\Personal\Desktop\proiect oop decembrie\clase\player.h=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,C:\Users\Personal\Documents\Project1PCH1.h=C:\Users\Personal\Desktop\proiect oop decembrie\ProjectMoaraPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\Personal\Desktop\proiect oop decembrie\Moara.cpp=C:\Users\Personal\Desktop\Moara.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\Personal\Desktop\proiect oop decembrie\Moara.h=C:\Users\Personal\Desktop\Moara.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\Personal\Documents\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Personal\Documents\Unit1.h=C:\Users\Personal\Desktop\proiect oop decembrie\Moara.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\Personal\Documents\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Personal\Documents\Unit1.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\Moara.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\Personal\Desktop\proiect oop decembrie\ProjectMoara.cbproj=C:\Users\Personal\Desktop\ProiectMoara Turcu.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,C:\Users\Personal\Desktop\proiect oop decembrie\clase\Pion.h=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,C:\Users\Personal\Documents\Unit1.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\clase\tablaJoc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=C:\Users\Personal\Documents\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Users\Personal\Desktop\proiect oop decembrie\clase\player.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,C:\Users\Personal\Desktop\proiect oop decembrie\clase\Pion.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\Unit1.cpp</Transaction>
+    <Transaction>2026.01.17 13:38:50.456,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\ProiectMoara TurcuPCH2.h=C:\Users\Personal\Desktop\ProiectMoara TurcuPCH1.h</Transaction>
+    <Transaction>2026.01.17 13:38:50.679,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\ProiectMoara Turcu.cbproj=C:\Users\Personal\Desktop\ProiectMoara Turcu.cbproj</Transaction>
+    <Transaction>2026.01.17 13:38:53.439,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\ProiectMoara Turcu.cbproj=C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\ProiectMoara Turcu.cbproj</Transaction>
+    <Transaction>2026.01.17 13:46:16.814,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\Moara.h=C:\Users\Personal\Desktop\Moara.h</Transaction>
+    <Transaction>2026.01.17 13:46:16.814,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\Moara.dfm=C:\Users\Personal\Desktop\Moara.dfm</Transaction>
+    <Transaction>2026.01.17 13:46:16.814,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\Moara.cpp=C:\Users\Personal\Desktop\Moara.cpp</Transaction>
+    <Transaction>2026.01.17 13:47:32.973,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\player.h=C:\Users\Personal\Desktop\proiect oop decembrie\clase\player.h</Transaction>
+    <Transaction>2026.01.17 13:47:32.973,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\player.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\clase\player.cpp</Transaction>
+    <Transaction>2026.01.17 13:47:57.135,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\Pion.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\clase\Pion.cpp</Transaction>
+    <Transaction>2026.01.17 13:47:57.135,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\Pion.h=C:\Users\Personal\Desktop\proiect oop decembrie\clase\Pion.h</Transaction>
+    <Transaction>2026.01.17 13:48:15.166,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\tablaJoc.cpp=C:\Users\Personal\Desktop\proiect oop decembrie\clase\tablaJoc.cpp</Transaction>
+    <Transaction>2026.01.17 13:48:15.166,C:\Users\Personal\Documents\Embarcadero\Studio\Projects\Proeict Morariu\tablaJoc.h=C:\Users\Personal\Desktop\proiect oop decembrie\clase\tablaJoc.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ProiectMoara TurcuPCH2.h"/>
+    <File Path="ProiectMoara Turcu.cpp"/>
+    <File Path="Moara.cpp"/>
+    <File Path="Moara.cpp"/>
+    <File Path="Moara.dfm"/>
+    <File Path="Moara.h"/>
+    <File Path="player.cpp"/>
+    <File Path="player.cpp"/>
+    <File Path="player.h"/>
+    <File Path="Pion.cpp"/>
+    <File Path="Pion.cpp"/>
+    <File Path="Pion.h"/>
+    <File Path="tablaJoc.cpp"/>
+    <File Path="tablaJoc.cpp"/>
+    <File Path="tablaJoc.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
